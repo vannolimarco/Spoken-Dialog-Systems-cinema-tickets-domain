@@ -1,0 +1,255 @@
+Ho bisogno di aiuto,request.help
+Ho bisogno di un aiuto,request.help
+Avrei bisogno di aiuto,request.help
+Ciao ho bisogno di aiuto,request.help
+Mi puoi aiutare,request.help
+Mi puoi aiutare,request.help
+Mi serve aiuto,request.help
+Mi aiuti,request.help
+Ciao,request.help
+Salve,request.help
+Potresti aiutare,request.help
+Mi potresti aiutare,request.help
+Aiuto,request.help
+Che bel robot,request.congratulations
+Sei stupendo,request.congratulations
+Sei bravissimo,request.congratulations
+Ti amo,request.congratulations
+Sei fantastico,request.congratulations
+Sei il migliore,request.congratulations
+Sei il robot piu bravo,request.congratulations
+Sei eccezionale,request.congratulations
+Sei grandissimo,request.congratulations
+Bellissimo,request.congratulations
+Stupendo,request.congratulations
+Sei il piu bravo,request.congratulations
+Sei il piu bravo,request.congratulations
+Sei il miglior robot,request.congratulations
+Sei ottimo,request.congratulations
+Bravissimo,request.congratulations
+Meraviglioso,request.congratulations
+Chi sei,request.info_robot
+Posso sapere Chi sei,request.info_robot
+A cosa servi,request.info_robot
+A che cosa servi,request.info_robot
+Il tuo scopo,request.info_robot
+Qual'è il tuo scopo,request.info_robot
+Tu chi sei,request.info_robot
+Mi puoi dire a cosa servi,request.info_robot
+Mi puoi dire chi sei,request.info_robot
+Vorrei sapere che film ci sono,request.info_films
+Desidero sapere che film ci sono questa settimana,request.info_films
+Desidero sapere che film ci sono,request.info_films
+Voglio sapere che film ci sono,request.info_films
+Vorrei sapere se ci sono dei film da vedere,request.info_films
+Voglio sapere se ci sono dei film da vedere,request.info_films
+Ci sono dei film questa sera,request.info_films
+Che film ci sono,request.info_films
+Quali film,request.info_films
+Quali film proiettano,request.info_films
+Quali film vengono proiettati,request.info_films
+Quali sono i film che sono nelle sale cinematografiche,request.info_films
+Quali sono i film che vengono proiettati,request.info_films
+Quali sono i film che sono proiettati,request.info_films
+Vorrei sapere quali film proiettano,request.info_films
+Vorrei sapere quali film vengono proiettati,request.info_films
+Vorrei sapere che film ci sono,request.info_films
+ci sono dei film,request.info_films
+Ci sono dei film in questo momento,request.info_films
+Che film ci sono,request.info_films
+Quali film ci sono nelle sale,request.info_films
+Quali film fanno vedere,request.info_films
+Quali film vengono fatti vedere,request.info_films
+Vorrei sapere che film ci sono con il genere,request.info_films
+Voglio sapere che film ci sono con il genere,request.info_films
+Vorrei sapere che film ci sono con di genere,request.info_films
+Voglio sapere che film ci sono con di genere,request.info_films
+Vorrei sapere che film ci sono di genere,request.info_films
+Voglio sapere che film ci sono di genere,request.info_films
+Vorrei sapere che film ci sono di genere,request.info_films
+Voglio sapere che film ci sono di genere,request.info_films
+Vorrei sapere se ci sono dei film da vedere con il genere,request.info_films
+Voglio sapere se ci sono dei film da vedere con il genere,request.info_films
+Vorrei sapere se ci sono dei film da vedere di genere,request.info_films
+Voglio sapere se ci sono dei film da vedere di genere,request.info_films
+Ci sono dei film questa sera con il genere,request.info_films
+Che film ci sono con il genere,request.info_films
+Quali film proiettano con il genere,request.info_films
+Quali film vengono proiettati con il genere,request.info_films
+Vorrei sapere che film ci sono,request.info_films
+ci sono dei film con il genere,request.info_films
+Ci sono dei film questa sera di genere,request.info_films
+Che film ci sono di genere,request.info_films
+Quali film proiettano di genere,request.info_films
+Quali film vengono proiettati di genere,request.info_films
+Vorrei sapere che film ci sono di genere,request.info_films
+ci sono dei film di genere,request.info_films
+Ci sono dei film in questo momento con il genere,request.info_films
+Ci sono dei film in questo momento di genere,request.info_films
+Che film ci sono con il genere,request.info_films
+Che film ci sono di genere,request.info_films
+Quali film ci sono nelle sale con il genere,request.info_films
+Quali film fanno vedere con il genere,request.info_films
+Quali film vengono fatti vedere con il genere,request.info_films
+Quali film ci sono nelle sale di genere,request.info_films
+Quali film fanno vedere di genere,request.info_films
+Quali film vengono fatti vedere di genere,request.info_films
+Quali film fanno vedere di genere,request.info_films
+Quali film vengono fatti vedere di genere,request.info_films
+Che film mi consigli questa settimana,request.info_film_advi
+Quale film mi consigli in questo periodo,request.info_film_advi
+Quale film mi consigli,request.info_film_advi
+Mi consigli dei film,request.info_film_advi
+Mi consigli un film da andare a vedere,request.info_film_advi
+Che film mi consigli questa settimana,request.info_film_advi
+Quali film mi consigli in questo periodo,request.info_film_advi
+Quali film mi consigli,request.info_film_advi
+Mi consiglieresti dei film,request.info_film_advi
+Consiglieresti dei film,request.info_film_advi
+Consiglieresti dei film da andare a vedere,request.info_film_advi
+Film che mi consigli questa settimana,request.info_film_advi
+Film che mi consigli,request.info_film_advi
+Che film mi consiglieresti questa settimana,request.info_film_advi
+Quale film mi consiglieresti,request.info_film_advi
+Film che mi consiglieresti questa settimana,request.info_film_advi
+Film che mi consiglieresti,request.info_film_advi
+Film con il genere che mi consiglieresti,request.info_film_advi
+Qual'è il film piu valutato,request.info_film_max_score
+Il film piu valutato,request.info_film_max_score
+Il film che ha il punteggio piu alto,request.info_film_max_score
+Il film piu stelle,request.info_film_max_score
+Il film che ha il punteggio di stelle piu alto,request.info_film_max_score
+Qual'è il film piu valutato,request.info_film_max_score
+Qual'è il film che ha il punteggio piu alto,request.info_film_max_score
+Qual'è il film piu stelle,request.info_film_max_score
+Qual'è il film che ha il punteggio di stelle piu alto,request.info_film_max_score
+Vorrei sapere il film che ha il punteggio piu alto,request.info_film_max_score
+Vorrei il film che ha il punteggio piu alto,request.info_film_max_score
+Desidero il film che ha il punteggio piu alto,request.info_film_max_score
+Vorrei sapere il film che ha piu stelle di valutazione,request.info_film_max_score
+Vorrei il film che ha piu stelle,request.info_film_max_score
+Desidero il film che ha il numero piu alto di stelle,request.info_film_max_score
+Qual'è il film che ha l'attore piu valuatato,request.info_film_max_score_actor
+Qual'è il film che ha l'attore piu bravo,request.info_film_max_score_actor
+Il film che ha l'attore piu valuatato,request.info_film_max_score_actor
+Il film che ha l'attore piu bravo,request.info_film_max_score_actor
+Vorrei sapere il film che ha l'attore piu valuatato,request.info_film_max_score_actor
+Vorrei il film che ha l'attore piu valuatato,request.info_film_max_score_actor
+Vorrei il film che ha l'attore piu bravo,request.info_film_max_score_actor
+Desidero il film che ha l'attore piu valuatato,request.info_film_max_score_actor
+Desidero il film che ha l'attore piu bravo,request.info_film_max_score_actor
+Qual'è il film che ha l'attore piu premiato,request.info_film_max_score_actor
+Il film che ha l'attore piu premiato,request.info_film_max_score_actor
+Vorrei sapere il film che ha l'attore piu premiato,request.info_film_max_score_actor
+Vorrei il film che ha l'attore piu premiato,request.info_film_max_score_actor
+Desidero il film che ha l'attore piu premiato,request.info_film_max_score_actor
+Qual'è il film che ha l'attore piu premiato agli Oscar,request.info_film_max_score_actor
+Il film che ha l'attore piu premiato agli oscar,request.info_film_max_score_actor
+Vorrei sapere il film che ha l'attore piu premiato agli oscar,request.info_film_max_score_actor
+Vorrei il film che ha l'attore piu premiato agli oscar,request.info_film_max_score_actor
+Desidero il film che ha l'attore piu premiato agli oscar,request.info_film_max_score_actor
+Che genere ha il film,request.info_film_gen
+Voglio avere informazioni sul genere di un film,request.info_film_gen
+Che genere ha il film,request.info_film_gen
+Qual'è il genere del film,request.info_film_gen
+il genere di un film,request.info_film_gen
+Che genere ha il film,request.info_film_gen
+Che genere,request.info_film_gen
+Voglio avere informazioni sul genere,request.info_film_gen
+Vorrei avere informazioni sul genere di un film,request.info_film_gen
+Desidero avere informazioni sul genere di un film,request.info_film_gen
+Qual'è il genere,request.info_film_gen
+Che punteggio ha il film,request.info_film_score
+Voglio avere informazioni sul punteggio di un film,request.info_film_score
+Che punteggio ha,request.info_film_score
+Qual'è il punteggio del film,request.info_film_score
+il punteggio del film,request.info_film_score
+Che punteggio,request.info_film_score
+Voglio avere informazioni sul punteggio,request.info_film_score
+Qual'è il punteggio,request.info_film_score
+Che stelle di valutazione ha il film,request.info_film_score
+Voglio avere le stelle di valutazione di un film,request.info_film_score
+Che stelle di valutazione ha,request.info_film_score
+Qual'è il numero di stelle del film,request.info_film_score
+le stelle del film,request.info_film_score
+Che stelle di valutazione,request.info_film_score
+Voglio avere informazioni sulle stelle,request.info_film_score
+Qual'è il punteggio,request.info_film_gen,request.info_film_score
+Quante stelle di valutazione ha ottenuto il film,request.info_film_score
+Qunate stelle,request.info_film_score
+Quante stelle di valutazione,request.info_film_score
+Quanto di punteggio ha ottenuto il film,request.info_film_score
+Vorrei avere informazioni su un film,request.info_film
+Vorrei avere delle informazioni su un film,request.info_film
+Desidero avere informazioni su un film,request.info_film
+Desidero avere delle informazioni su un film,request.info_film
+Avere informazioni su un film,request.info_film
+Avere delle informazioni su un film,request.info_film
+Voglio informazioni su un film,request.info_film
+Informazioni su un film,request.info_film
+Voglio delle informazioni su un film,request.info_film
+Vorrei avere informazioni,request.info_film
+Vorrei avere delle informazioni,request.info_film
+Vorrei avere delle informazioni su un film,request.info_film
+Desidero avere informazioni,request.info_film
+Desidero avere delle informazioni,request.info_film
+Avere informazioni,request.info_film
+Avere delle informazioni,request.info_film
+Voglio informazioni,request.info_film
+Voglio delle informazioni,request.info_film
+Vorrei vedere un film,request.booking_film
+Desidero vedere un film,request.booking_film
+Vorrei prenotare un film,request.booking_film
+Vorrei prenotare,request.booking_film
+Prendere,request.booking_film
+Acquistare,request.booking_film
+Lo compro,request.booking_film
+Lo prendo,request.booking_film
+Comprare,request.booking_film
+Prenotare,request.booking_film
+Intendo prenotare un film per favore,request.booking_film
+Vorrei prenotare un film,request.booking_film
+Vorrei acquistare un biglietto,request.booking_film
+Vorrei acquistare dei biglietti,request.booking_film
+Vorrei comprare un biglietto per un film,request.booking_film
+Vorrei comprare un biglietto questa sera,request.booking_film
+Desidero comprare un biglietto,request.booking_film
+Desidero comprare dei biglietti,request.booking_film
+Biglietti,request.booking_film
+Desidero prendere dei tickets,request.booking_film
+Desidero comprare dei tickets,request.booking_film
+Desidero acquistare dei tickets,request.booking_film
+Desidero acquistare un biglietto per favore,request.booking_film
+Vorrei prenotare un film sè possibile,request.booking_film
+Vorrei prendere un biglietto,request.booking_film
+Vorrei acquistare un biglietto,request.booking_film
+Vorrei prendere un biglietto,request.booking_film
+Desidero comprare un biglietto,request.booking_film
+Desidero prenotare un film,request.booking_film
+Intendo prenotare un film,request.booking_film
+Mi puoi prenotare un film,request.booking_film
+Mi puoi acquistare dei biglietti,request.booking_film
+Mi potresti aiutare a prendere dei biglietti per il cinema,request.booking_film
+Mi aiuti a comprare dei biglietti,request.booking_film
+Mi aiuti ad acquistare dei biglietti,request.booking_film
+Mi aiuti ad prenotare dei biglietti,request.booking_film
+Mi aiuti a comprare dei biglietto,request.booking_film
+Mi aiuti ad acquistare dei biglietto,request.booking_film
+Mi aiuti ad prenotare dei biglietto,request.booking_film
+Mi daresti una mano a prenotare dei film,request.booking_film
+Mi daresti una mano a comprare dei film,request.booking_film
+Vorrei comprare dei biglietti per il cinema,request.booking_film
+Voglio prenotare un film,request.booking_film
+Vorrei vedere un film,request.booking_film
+Biglietto,request.booking_film
+Biglietti,request.booking_film
+Acquistare,request.booking_film
+Comprare,request.booking_film
+Acquisto biglietti,request.booking_film
+Acquisto biglietto,request.booking_film
+Compro biglietti,request.booking_film
+Compro biglietto,request.booking_film
+Prendo biglietti,request.booking_film
+Desidero un biglietto,request.booking_film
+Prendo biglietti,request.booking_film
+Desidero dei biglietti,request.booking_film
