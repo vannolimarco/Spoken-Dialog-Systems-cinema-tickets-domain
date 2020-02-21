@@ -1,3 +1,5 @@
+![Alt text](https://github.com/vannolimarco/Spoken-Dialog-Systems-cinema-tickets-domain/blob/master/logo-sapienza-new.jpg?raw=true "Title")
+
 # Welcome to Vannoli Marco github 
 The repository is dedicated to AI, in particulary to the implementation of Task-Oriented Spoken Dialog Systems on cinema tickets domain. Inside it, you will find the code implemented and results about testings. The robot which speak with you is called Gina in honor of Gina Lollobrigida which has been a important female figure of italian cinema world.
 
